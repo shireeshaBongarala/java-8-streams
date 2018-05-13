@@ -1,4 +1,4 @@
-package com.internship.streams;
+package com.internship.streams.Set1;
 
 import com.internship.streams.models.ProductListing;
 
